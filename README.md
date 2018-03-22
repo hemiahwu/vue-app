@@ -10,6 +10,8 @@
 
 ### 分支vue-pizza-app : Vue2.x全家桶实战点餐系统
 
+### 分支vuex-app : Vuex从入门到开发(深入浅出)
+
 ## Build Setup
 
 ``` bash
